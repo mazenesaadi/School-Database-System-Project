@@ -1,5 +1,3 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/8irlYfOA)
-
 ## School Database System
 A comprehensive database system designed to manage students, faculty, and course information. This system allows administrators, faculty, and students to interact with the database efficiently. Built using SQL and designed for role-based access, it ensures data integrity and streamlined management of school operations.
 
